@@ -1,0 +1,1 @@
+sid@gmail.com,sid,phd123,address,9810180107,CSE,p1,p2,p3,Male,General,No,1996-02-07,No,father,Indian,Padress,110045,CBSE,90,2013,CBSE,95,2015,BTECH,CSE,IIITD,Delhi university,DELHI,DELHI,2016,MARKS,null,null,80,No,null,null,null,null,Yes,IITD,DELHI,DELHI,CSE,MTECH,THESIS,2019,MARKS,null,null,90,No,null,null,null,null,null,Yes,area,2015,90,1000,12,No,CV,RES,1442512549,2015-09-17

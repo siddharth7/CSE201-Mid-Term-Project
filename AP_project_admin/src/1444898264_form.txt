@@ -1,0 +1,69 @@
+Email* :sid@gmail.com
+Name* :sidharth
+Enrollment Number* :12345
+Address of Correspondence* :address
+Mobile* :9810180107
+PhD Stream* :Computer Science
+PhD Area Preference 1* :Machine Learning - CSE
+PhD Area Preference 2 :OFDM based Optical Access Networks - ECE
+PhD Area Preference 3 :Information Management and Data Engineering - CSE
+Gender* :Male
+Category* :General
+Physically Disabled* :No
+Date Of Birth* :2013-10-16
+Children/War Widows of Defence Personnel killed/Disabled in Action* :No
+Father's Name* :father
+Nationality* :Bangladeshi
+Permanent Address* :address
+Pin Code :110075
+Xth Board* :CBSE
+Xth Marks (%)* :95
+Year of Passing Xth* :2005
+XIIth Board* :CBSE
+XIIth Marks (%)* :96
+Year of Passing XIIth* :2003
+Degree* :BTECH
+Department/Discipline* :CS
+Name of College* :iit
+Name of University* :du
+City* :delhi
+State* :Delhi
+Year of Graduation* :2010
+CGPA or MARKS :MARKS(%)
+Graduation CGPA :null
+Graduation CGPA Scale :4
+Graduation Marks (%) :80
+ECE PhD Subject Preference :No
+Preference 1 :No
+Preference 2 :No
+Preference 3 :No
+Preference 4 :null
+Post-Graduation :null
+Name of College :null
+City :null
+State :null
+Department/Discipline :null
+Degree :null
+Thesis Title :null
+Year of Post-Graduation :null
+CGPA or MARKS? :null
+Post-Graduation CGPA :2015
+Post-Graduation CGPA Scale :null
+Post-Graduation Marks (%) :null
+Other Academic Degrees :4
+Exam Name :null
+Subject :null
+Year :null
+Score :2015
+Rank :null
+Gate :null
+Area :null
+Year of Graduation :2015
+Marks(out of 100) :null
+Score :null
+Rank :null
+Achievements (Other information like ranks, medals etc.) :null
+CV/Resume* :/Users/siddharthsingh/Documents/workspace3/AP_project_admin/src/1444898264_cv.pdf
+Statement of Purpose* :/Users/siddharthsingh/Documents/workspace3/AP_project_admin/src/1444898264_sop.pdf
+EnrollmentID :1444898264
+Enrollment Time :2015-10-15
